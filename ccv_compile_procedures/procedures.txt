@@ -1,0 +1,15 @@
+sign in  with putty: guest264@ssh.ccv.brown.edu
+password
+command lines:
+ls shows the list of current folder;
+cd foldername/ goes into the folder;
+cd .. goes to the upper level of folder;
+
+for compiling the c++ codes:
+follow the steps below:
+module load cmake
+cmake CMakelists.txt
+make
+by using ls, you can see there is a main function;
+then
+./main
